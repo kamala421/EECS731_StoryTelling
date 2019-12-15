@@ -8,3 +8,6 @@ We are using the movielens dataset used in assignment 3. Since the dataset is to
 
 The detail documentation is included in jupyter notebook titled [Story_telling](./notebook/Story_telling.ipynb).
 
+**Note: Since the interactive display does not work in github, please use following nbviewer link.**
+https://nbviewer.jupyter.org/github/kamala421/EECS731_StoryTelling/blob/master/notebook/Story_telling.ipynb
+
